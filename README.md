@@ -34,7 +34,7 @@ Flujo unidireccional: acción en Compose → método del ViewModel → nuevo est
 
 La beca descuenta el 50 % del costo base. Si se activa Icetex, el 5 % de recargo se calcula sobre el saldo después del descuento y se redondea al peso.
 
-## Guion de sustentación
+## Pruebas a hacer
 
 1. Abre **Matrícula** y selecciona **Inglés Técnico**. Señala el botón **Liquidar** deshabilitado y usa **Ir al perfil**.
 2. Pulsa **Guardar perfil** con los campos vacíos para mostrar la validación. Registra a **María José**, código **00123**, facultad **Ingenierías**. Comprueba que se muestre `maria.jose.00123@uts.edu.co`.
